@@ -5,6 +5,7 @@
 /web/out/
 /web/build
 /web/next-env.d.ts
+/web/.env.local
 /web/.env
 
 # misc
